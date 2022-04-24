@@ -1,3 +1,3 @@
-# google_patents
+# patent metrics for google_patents
 
-Pyspark scripts to clean google patents json file
+Pyspark scripts clean google patent parquet files and calculate patent metrics for US patents
